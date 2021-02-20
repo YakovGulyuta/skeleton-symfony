@@ -12,6 +12,7 @@
         "symfony/flex": "^1.12",
         "symfony/framework-bundle": "5.2.*",
         "symfony/monolog-bundle": "^3.6",
+        "symfony/web-profiler-bundle": "5.2.*",
         "symfony/yaml": "5.2.*"
     },
     "config": {
